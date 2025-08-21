@@ -13,5 +13,6 @@ use Application\Hello;
 <body>
     <h1>PHP & Mysql</h1>
     <p><?= Hello::message() ?></p>
+    <h1>Teste</h1>
 </body>
 </html>
